@@ -4,4 +4,5 @@
 3-new_owner - Cambie el propietario del archivo hello al usuario betty
 4-empty - Crea un archivo vacío llamado helo
 5-execute - Añaea permiso de ejecución al propietario del archivhello
-6-multiple_permissions -  añada permiso de ejecución al propietario y al grupo del propietario, y permiso de lectura a otros usuarios, al archivo hello.
+6-multiple_permissions -  añada permiso de ejecución al propietario y al grupo del propietario, y permiso de lectura a otros usuarios, al archivo hell
+7-everybody -  añada permiso de ejecución al propietario, al grupo propietario y a los demás usuarios, al archivo hello
