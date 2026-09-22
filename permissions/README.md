@@ -9,4 +9,5 @@
 8-James_Bond - establezca los permisos del archivo hello de la siguiente manera
 9-John_Doe - establezca el modo del archivo hello en esto: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10-mirror_permissions - establezca el modo del archivo hello igual al modo de olleh
-11-directories_permissions - agregue permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo propietario y todos los demás usuarios. Los archivos regulares no deben modificarse
+11-directories_permissions - agregue permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo propietario y todos los demás usuarios. Los archivos regulares no deben modificars
+12-directory_permissions -  cree un directorio llamado my_dir con permisos 751 en el directorio de trabajo
