@@ -11,3 +11,4 @@
 10-mirror_permissions - establezca el modo del archivo hello igual al modo de olleh
 11-directories_permissions - agregue permiso de ejecución a todos los subdirectorios del directorio actual para el propietario, el grupo propietario y todos los demás usuarios. Los archivos regulares no deben modificars
 12-directory_permissions -  cree un directorio llamado my_dir con permisos 751 en el directorio de trabajo
+13-change_group - cambie el grupo propietario a school para el archivo hello
