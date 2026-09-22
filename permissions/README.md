@@ -7,3 +7,5 @@
 6-multiple_permissions -  añada permiso de ejecución al propietario y al grupo del propietario, y permiso de lectura a otros usuarios, al archivo hell
 7-everybody -  añada permiso de ejecución al propietario, al grupo propietario y a los demás usuarios, al archivo hell
 8-James_Bond - establezca los permisos del archivo hello de la siguiente manera
+9-John_Doe - establezca el modo del archivo hello en esto: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+
